@@ -5,7 +5,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0px 20px;
-    
+  color: aliceblue;  
 }
 nav.header a{
     text-decoration: none;
@@ -14,4 +14,9 @@ nav.header a{
 }
 nav.header a:hover{
     color: chartreuse;
+}
+.text-white{
+    color: aliceblue;
+    margin: 0 10px;
+    
 }
