@@ -20,7 +20,7 @@
 // 
 // hosting
 // one time per pc;
-// 1.npm install=g firebase-tools
+// 1.npm install -g firebase-tools
 // 2.firebase login
 
 

@@ -9,3 +9,13 @@
     gap: 45px;
 
 }
+
+.pagination{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.pagination .selected{
+    background-color: #FF9900;
+}
